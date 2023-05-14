@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrKJpOlJo6na05R30E4OhdgKuetOt3CRCPVt0tq3J5RvaxHF3Nsht1t/lYVWsuzJk7na/B4eoOt8egO3D/lY2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elmehdi\\source\\repos\\WinForms_POC_SmartHome\\WinForms_POC_SmartHome\\WinForms_POC_SmartHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\elmehdi\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
